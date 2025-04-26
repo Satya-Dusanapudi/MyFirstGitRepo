@@ -1,1 +1,2 @@
 Hello this is my first git repo
+now i am updating hello.txt file since there are two files in this repo
